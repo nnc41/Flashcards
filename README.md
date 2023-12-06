@@ -1,1 +1,2 @@
-Create digital flashcards assisting in studying.
+# Flashcards
+Create digital flashcards to assist in studying.
